@@ -8,7 +8,9 @@ Just run:
 
 ```bash
 cargo run -p <EXERCISE_NAME>
+cargo test -p <EXERCISE_NAME>
 # or
 cd <EXERCISE_NAME>
 cargo run
+cargo test
 ```
