@@ -1,3 +1,7 @@
+mod quiz1;
+
+use quiz1::run_quiz1;
+
 fn main() {
-    println!("Hello!");
+    run_quiz1();
 }
