@@ -12,4 +12,5 @@ members = [
   "if",
   "primitive_types",
   "vectors",
+  "move_semantics",
 ]
