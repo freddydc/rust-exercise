@@ -13,4 +13,5 @@ members = [
   "primitive_types",
   "vectors",
   "move_semantics",
+  "structs",
 ]
