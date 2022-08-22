@@ -15,4 +15,5 @@ members = [
   "move_semantics",
   "structs",
   "enums",
+  "strings",
 ]
