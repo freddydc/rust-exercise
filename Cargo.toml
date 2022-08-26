@@ -16,4 +16,5 @@ members = [
   "structs",
   "enums",
   "strings",
+  "modules",
 ]
