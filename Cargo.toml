@@ -17,4 +17,5 @@ members = [
   "enums",
   "strings",
   "modules",
+  "hashmaps",
 ]
