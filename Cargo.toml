@@ -20,4 +20,5 @@ members = [
   "hashmaps",
   "options",
   "error_handling",
+  "generics",
 ]
