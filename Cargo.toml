@@ -21,4 +21,5 @@ members = [
   "options",
   "error_handling",
   "generics",
+  "traits",
 ]
