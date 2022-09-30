@@ -22,4 +22,5 @@ members = [
   "error_handling",
   "generics",
   "traits",
+  "lifetimes",
 ]
