@@ -23,4 +23,5 @@ members = [
   "generics",
   "traits",
   "lifetimes",
+  "standard_library_types",
 ]
