@@ -24,4 +24,5 @@ members = [
   "traits",
   "lifetimes",
   "standard_library_types",
+  "threads",
 ]
