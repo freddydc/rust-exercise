@@ -25,4 +25,5 @@ members = [
   "lifetimes",
   "standard_library_types",
   "threads",
+  "macros",
 ]
