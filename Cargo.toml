@@ -26,4 +26,5 @@ members = [
   "standard_library_types",
   "threads",
   "macros",
+  "clippy",
 ]
